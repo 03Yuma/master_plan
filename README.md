@@ -1,6 +1,4 @@
-# Pemrograman Mobile
-
-A new Flutter project.
+# Jobsheet 10
 
 ## Praktikum 1
 
@@ -29,6 +27,9 @@ A new Flutter project.
 
 ## Praktikum 3
 ![Alt text](https://github.com/03Yuma/master_plan/blob/main/GIFT/Praktikum3.gif)
+
+Gambar Diagram
+![Alt text](https://github.com/03Yuma/master_plan/blob/main/GIFT/P3_SS.png)
 
 Diagram menunjukkan proses aplikasi berpindah dari satu layar ke layar lainnya.
 Layar pertama, yaitu PlanCreatorScreen, menyediakan input untuk memasukkan data serta menampilkan daftar yang bisa di-scroll. Setelah pengguna menavigasi ke layar berikutnya menggunakan Navigator.push, mereka akan dibawa ke PlanScreen. Di layar ini, struktur tampilannya lebih lengkap karena menggunakan Scaffold sebagai kerangka utama layar, dan dilengkapi dengan SafeArea untuk memastikan konten tidak tertutupi elemen UI sistem seperti notch atau status bar.
