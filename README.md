@@ -2,15 +2,17 @@
 
 A new Flutter project.
 
-## Getting Started
+## Praktikum 1
 
-This project is a starting point for a Flutter application.
+![Alt text](https://github.com/username/repo/blob/main/video_name.mp4)
 
-A few resources to get you started if this is your first Flutter project:
+2. penjelasan langkah 4
+   intruksi tersebut bertujuan untuk menyederhanakan proses impor
+3. Mengapa perlu variabel plan di langkah 6 pada praktikum tersebut? Mengapa dibuat     konstanta ?
+   plan digunakan sebagai data utama yang dikelola dalam state widget, dan   
+   penggunaan const pada inisialisasi membantu mengoptimalkan kinerja aplikasi dan      menjaga konsistensi nilai awal
+5. Apa kegunaan method pada Langkah 11 dan 13 dalam lifecyle state ?
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   iniState digunakan untuk inisialisasi data atau setup awal ketika widget           pertama kali dibuat. Dalam kasus ini, scrollController diinisialisasi dan          listener ditambahkan untuk menangani perubahan fokus (misalnya, menghilangkan      fokus dari elemen input saat melakukan scroll).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   dispose digunakan untuk membersihkan atau melepaskan sumber daya ketika widget     sudah tidak digunakan lagi. Di sini, scrollController.dispose() memastikan         bahwa scrollController dibersihkan dan tidak menyebabkan kebocoran memori saat     widget dihapus dari widget tree.
