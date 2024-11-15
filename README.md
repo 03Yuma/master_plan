@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Prakrikum 1
+## Praktikum 1
 
 1. gift
 2. penjelasan langkah 4
