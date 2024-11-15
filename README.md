@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Praktikum 1
 
-![Alt text](https://github.com/03Yuma/master_plan/blob/main/GIFT/Praktikum1.mp4)
+![Alt text](https://github.com/03Yuma/master_plan/blob/main/GIFT/Praktikum1.gif)
 
 2. penjelasan langkah 4
    intruksi tersebut bertujuan untuk menyederhanakan proses impor
