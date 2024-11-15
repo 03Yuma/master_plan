@@ -28,5 +28,14 @@ A new Flutter project.
    completenessMesaage menunjukkan berapa banyak tugas yang sudah selesai dari        total tugas
 
 ## Praktikum 3
+![Alt text](https://github.com/03Yuma/master_plan/blob/main/GIFT/Praktikum3.gif)
+
+Diagram menunjukkan proses aplikasi berpindah dari satu layar ke layar lainnya.
+Layar pertama, yaitu PlanCreatorScreen, menyediakan input untuk memasukkan data serta menampilkan daftar yang bisa di-scroll. Setelah pengguna menavigasi ke layar berikutnya menggunakan Navigator.push, mereka akan dibawa ke PlanScreen. Di layar ini, struktur tampilannya lebih lengkap karena menggunakan Scaffold sebagai kerangka utama layar, dan dilengkapi dengan SafeArea untuk memastikan konten tidak tertutupi elemen UI sistem seperti notch atau status bar.
+
+Struktur semacam ini sering digunakan di Flutter untuk membuat alur navigasi antar layar, terutama dalam aplikasi yang memiliki langkah-langkah atau proses yang saling berkaitan. Dengan menggunakan Navigator.push, pengguna dapat berpindah dari satu layar ke layar lainnya dengan lebih mulus, sehingga menciptakan pengalaman yang terstruktur dan teratur.
+
+
+
 
 
