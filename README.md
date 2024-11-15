@@ -18,7 +18,7 @@ A new Flutter project.
    dispose digunakan untuk membersihkan atau melepaskan sumber daya ketika widget     sudah tidak digunakan lagi. Di sini, scrollController.dispose() memastikan         bahwa scrollController dibersihkan dan tidak menyebabkan kebocoran memori saat     widget dihapus dari widget tree.
 
 ## Praktikum 2
-![Alt text](link gift)
+![Alt text](https://github.com/03Yuma/master_plan/blob/main/GIFT/Praktikum2.gif)
 
 2. Penggunaan InheritedNotifier  agar dapat membagikan dan melacak perubahan data     Plan di seluruh aplikasi. Menggunakan InheritedNotifier memungkinkan aplikasi 
    untuk mendengarkan perubahan pada ValueNotifier tanpa perlu menggunakan solusi     pengelolaan state lain yang lebih rumit, seperti Provider atau Riverpod.
@@ -27,5 +27,6 @@ A new Flutter project.
 
    completenessMesaage menunjukkan berapa banyak tugas yang sudah selesai dari        total tugas
 
-   
-5. 
+## Praktikum 3
+
+
